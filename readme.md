@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=dark
+![Zinfe GitHub stats](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=dark)
