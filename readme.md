@@ -1,6 +1,6 @@
 ## <p style="color: blue">Olá a todos, eu sou Souza🧑‍💻</p>
 
-![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugo05&show_icons=true&theme=dark)
+![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=dark)
 
 <a href="https://www.instagram.com/thurzinx85/" target="_blank">
 <img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=black'/>
