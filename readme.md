@@ -7,7 +7,7 @@
 <img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=000000&color=black'/>
 </a>
 <a href = "mailto:zinfegr@gmail.com">
-  <img alt='Gmail' src='https://img.shields.io/badge/GMAIl-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&color=black'/>
+  <img alt='Gmail' src='https://img.shields.io/badge/GMAIl-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&color=purple'/>
 </a>
 <a href="https://www.linkedin.com/in/arthur-rocha-b50533262/" target="_blank">
   <img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=black'/>
