@@ -1,6 +1,6 @@
 ## <p style="color: blue">Hi everyone, I'm Souza🧑‍💻
 
-  <a href="https://www.instagram.com/thurzinx85/" target="_blank">
+  <a href="https://www.instagram.com/4r1thur/" target="_blank">
 <img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=black'/>
 </a>
 <a href="https://discord.com/users/367483436497108992" target="_blank">
