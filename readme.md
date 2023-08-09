@@ -31,8 +31,7 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 <img height="50vh"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img height="50vh" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="50vh" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />          
+<img height="50vh"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+               
           
