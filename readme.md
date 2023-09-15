@@ -17,7 +17,7 @@
 
 
 
-![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=gruvbox)
+![Souza Github Status](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=gruvbox)
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zinfex&layout=compact&theme=gruvbox)](https://github.com/zinfex)
  
