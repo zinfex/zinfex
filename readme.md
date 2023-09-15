@@ -17,9 +17,9 @@
 
 
 
-![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=midnight-purple)
+![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=gruvbox)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zinfex&layout=compact&theme=midnight-purple)](https://github.com/zinfex)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zinfex&layout=compact&theme=gruvbox)](https://github.com/zinfex)
  
 <img height="50vh" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
