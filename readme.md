@@ -10,16 +10,16 @@
   <img alt='Gmail' src='https://img.shields.io/badge/GMAIl-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&color=black'/>
 </a>
 <a href="https://www.linkedin.com/in/arthur-rocha-b50533262/" target="_blank">
-  <img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=black'/>
+  <img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=black&theme=yeblu'/>
 </a> 
   
 </p>
 
 
 
-![Souza Github Status](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=gruvbox)
+![Souza Github Status](https://github-readme-stats.vercel.app/api?username=zinfex&show_icons=true&theme=yeblu)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zinfex&layout=compact&theme=gruvbox)](https://github.com/zinfex)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zinfex&layout=compact&theme=yeblu)](https://github.com/zinfex)
  
 <img height="50vh" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
