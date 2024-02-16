@@ -13,6 +13,8 @@
   <img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=black&theme=yeblu'/>
 </a> 
   
+            
+          
 </p>
 
 
@@ -31,5 +33,5 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="50vh"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-               
+     <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
