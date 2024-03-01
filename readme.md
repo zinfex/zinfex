@@ -1,11 +1,10 @@
 
-<img align="center" style="margin-bottom:100px" width=30% src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/6/65/Giphyxxxs.gif/revision/latest/scale-to-width-down/600?cb=20180618174546" />
+<img align="center" style="margin-bottom:100px" width=100% src="het.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-zinfex.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zinfex&theme=radical&mode=weekly" />
  </div>
  
  &nbsp;
