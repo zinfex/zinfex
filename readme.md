@@ -1,8 +1,7 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/raffaelalexandrino/raffaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=30% src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/6/65/Giphyxxxs.gif/revision/latest/scale-to-width-down/600?cb=20180618174546" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
