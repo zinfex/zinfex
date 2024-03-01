@@ -1,11 +1,10 @@
 
 <div>
- <img align="center" style="margin-bottom:100px" width=60% src="het.jpg" />
+ <img align="center" style="margin-bottom:100px" width=100% src="het.jpg" />
  &nbsp;&nbsp;&nbsp;
- 
- <img width=35% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zinfex&theme=radical&mode=weekly" />
 </div>
 
+<img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zinfex&theme=radical&mode=weekly" />
  
  &nbsp;
  &nbsp;
