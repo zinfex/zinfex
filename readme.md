@@ -34,11 +34,13 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-316192?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-4EA94B?style=for-the-badge&logo=googlesheets&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
