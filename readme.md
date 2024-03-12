@@ -14,6 +14,7 @@
 #### Main Stack:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextjs&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/NodeJS-4EA94B?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -23,11 +24,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextjs&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
