@@ -4,8 +4,6 @@
  &nbsp;&nbsp;&nbsp;
 </div>
 
-<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zinfex&theme=radical&mode=weekly" />
- 
  &nbsp;
  &nbsp;
  
