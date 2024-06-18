@@ -33,7 +33,6 @@
 #### Databases:
 
 ![Mysql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-4EA94B?style=for-the-badge&logo=googlesheets&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Workstation Tools:
