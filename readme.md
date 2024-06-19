@@ -37,7 +37,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Mautic](https://img.shields.io/badge/mautic-4285F4?style=for-the-badge&logo=mautic&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![ClickUp](https://img.shields.io/badge/ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
