@@ -13,7 +13,7 @@
 
 - 🎉 Primeiro emprego dev com **9 meses de estudo**.
 
-- 🚀 Desenvolvendo um grande projeto envolvendo IA e Fundamentos Fullstack.
+- 🚀 Desenvolvendo um grande projeto envolvendo Fundamentos Fullstack.
 
 - 🔭 Estou estudando para me tornar um **Especialista Back-end**.
 
