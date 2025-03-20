@@ -4,10 +4,6 @@
  &nbsp;&nbsp;&nbsp;
 </div>
 
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="300px"/>
-
-
 <h2 align="center">📫 Contatos</h2>
 
 <div align="center">
