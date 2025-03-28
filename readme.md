@@ -1,9 +1,3 @@
-
-<div>
- <img align="center" style="margin-bottom:100px" width=100% src="het.jpg" />
- &nbsp;&nbsp;&nbsp;
-</div>
-
 <h2 align="center">📫 Contatos</h2>
 
 <div align="center">
