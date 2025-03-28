@@ -53,7 +53,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint)&nbsp;
-![N8N](https://img.shields.io/badge/n8n-4285F4?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![ClickUp](https://img.shields.io/badge/ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
