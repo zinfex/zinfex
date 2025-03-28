@@ -1,4 +1,4 @@
-<div align="end">
+<div align="start">
 <a href="mailto:zinfegr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
 <a href="https://www.linkedin.com/in/arthur-rocha-b50533262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="https://www.instagram.com/4r1thur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
